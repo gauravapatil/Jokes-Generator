@@ -1,0 +1,31 @@
+#main-container{
+     display: flex;
+     flex-direction: column;
+     justify-content:space-around;
+     align-items:center;
+     background-color: rgb(108, 24, 212);
+     height: 400px;
+     width: 80vw;
+     margin: 100px auto;
+     border-radius: 20px;
+}
+h2,h1{
+    color: white;
+}
+h1{
+    color: rgb(255, 234, 1);
+    height: 30px;
+}
+button{
+    color:white ;
+    background-color: black;
+    border-radius: 6px;
+    height: 40px;
+    width: 120px;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+body{
+    background-color: bisque;
+}
